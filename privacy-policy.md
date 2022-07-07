@@ -1,13 +1,15 @@
 # Privacy Policy
 This repository contains important information about what we collect and how we use your data.
 
-# What we collect
-## Using our restoration service
+## How we use your data
+We use our data for identification, feature functionality and protection against and on our services. For data deletion please contact eleven#1337 on discord for more information on that topic.
+
+## Using our restoration service (What we collect)
 * Discord User ID
 * Registration IP
 * Verification Timestamp
 
-## Verifying on a server using Deathwish
+## Verifying on a server using Deathwish (What we collect)
 * Discord User ID
 * Refresh Token
 * Access Token
@@ -15,4 +17,4 @@ This repository contains important information about what we collect and how we 
 * IP Data (ISP, Country, If enabled)
 * Verification Timestamp
 
-# How we use your data
+
