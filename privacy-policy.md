@@ -6,7 +6,6 @@ We use our data for identification, feature functionality and protection against
 
 ## Using our restoration service (What we collect)
 * Discord User ID
-* Registration IP
 * Verification Timestamp
 
 ## Verifying on a server using Deathwish (What we collect)
