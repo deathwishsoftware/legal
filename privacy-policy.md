@@ -17,4 +17,5 @@ We use our data for identification, feature functionality and protection against
 * IP Data (ISP, Country, If enabled)
 * Verification Timestamp
 
-
+## Disclaimer
+This repository can and will change at any time without any notification, Please keep up to date.
