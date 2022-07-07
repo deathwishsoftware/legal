@@ -1,6 +1,7 @@
 # Privacy Policy
-This repository contians important information about what we collect and how we use your data.
+This repository contains important information about what we collect and how we use your data.
 
+# What we collect
 ## Using our restoration service
 * Discord User ID
 * Registration IP
@@ -13,3 +14,5 @@ This repository contians important information about what we collect and how we 
 * User IP
 * IP Data (ISP, Country, If enabled)
 * Verification Timestamp
+
+# How we use your data
